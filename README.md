@@ -1,1 +1,3 @@
 # keycloak-share-token-authentication
+
+GET http://localhost:8180/auth/realms/demo/fakesso?token=aaaa&redirectUrl=http://www.baidu.com
